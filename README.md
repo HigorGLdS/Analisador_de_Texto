@@ -37,8 +37,8 @@ M1_S4_AnalisadorTexto/
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/M1_S4_AnalisadorTexto.git
-cd M1_S4_AnalisadorTexto
+git remote add origin
+ https://github.com/HigorGLdS/Analisador_de_Texto.git
 
 pip install -r requirements.txt
 
